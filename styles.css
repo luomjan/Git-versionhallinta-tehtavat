@@ -15,13 +15,14 @@ main {
 }
 
 #datetime {
-  background-color: white;
-  width: 300px;
-  margin: auto;
-  border: 1px solid grey;
+    background-color: rgb(217, 236, 207);
+    width: 300px;
+    margin: auto;
+    border: 1px solid rgb(241, 14, 14);
 }
+
 body {
-  background-color: #ffffff;
-  opacity: 1;
-  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 40px ), repeating-linear-gradient( #FAF0E655, #FAF0E6 );
+    background-color: #33bbb0;
+    opacity: 1;
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 40px), repeating-linear-gradient(#FAF0E655, #FAF0E6);
 }
